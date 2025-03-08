@@ -14,8 +14,8 @@ else:
     Inversion= (Montototal * 0.70)
     Credito= (Montototal - Inversion)
     Intereses= (Credito * 0.20)
-    print("El monto total de la compra es: ", Montototal)
+    print("El monto total de la compra es:",Montototal)
     print("La inversión de la empresa es: ", Inversion)
-    print("El préstamo al banco es: ", 0)
     print("El crédito al fabricante es: ", Credito + Intereses)
-    
+   
+   
