@@ -17,3 +17,4 @@
 - Creación de un repositorio en GitHub.
 - Uso de Git en el flujo de trabajo (commit, push, pull).
 - Manejo y combinación de ramas.
+- Manejo del repositorio remoto y local
