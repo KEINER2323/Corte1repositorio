@@ -1,3 +1,5 @@
+#KEINER BALDOVINO
+
 Piezas= int(input("ingrese el numero de piezas a comprar"))
 Precio= float(input("ingrese el precio unitario de la pieza"))
 Montototal= Piezas * Precio
