@@ -1,3 +1,4 @@
+-KEINER BALDOVINO
 #-Descripción
 Sistema para distribuir el pago de una orden de compra, dividiendo el costo entre inversión propia, préstamo bancario y crédito con el fabricante.
 
