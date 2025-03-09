@@ -1,16 +1,13 @@
-# Proyecto de Cálculo de Forma de Pago para Órdenes de Compra  
+#-Descripción
+Sistema para distribuir el pago de una orden de compra, dividiendo el costo entre inversión propia, préstamo bancario y crédito con el fabricante.
 
-## Descripción  
-Este proyecto permite calcular la distribución del pago de una orden de compra de una empresa contratante. Dependiendo del monto total, se decide cómo se distribuirán los pagos entre la inversión de la empresa, un préstamo bancario y un crédito con el fabricante.  
-
-## Funcionamiento  
-1. El usuario ingresa el número de piezas y el precio unitario.  
-2. Se calcula el monto total de la compra.  
-3. Según el monto total, se define el porcentaje de inversión propia, préstamo bancario y crédito al fabricante.  
-4. Se aplica un interés del 20% sobre el crédito con el fabricante.  
-5. Se muestra un resumen con los cálculos.  
-
-## Archivos del Proyecto  
-- `main.py`: Código principal del proyecto.  
-- `docs/config.txt`: Configuración del proyecto.  
-- `docs/index.txt`: Documentación y guía de uso.  
+#-Cómo Funciona
+Se ingresan la cantidad de piezas y el precio unitario.
+Se calcula el total de la compra.
+Se asignan los porcentajes de pago según el monto.
+Se aplica un 20% de interés al crédito del fabricante.
+Se genera un resumen con los valores finales.
+#-Archivos
+main.py: Código principal.
+docs/config.txt: Configuración.
+docs/index.txt: Manual de uso.
