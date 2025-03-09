@@ -1,1 +1,19 @@
-cositas y mas cositas...
+-Guía de Documentación
+
+# 1. Presentación
+- Propósito del proyecto.
+- Características y ventajas.
+
+# 2. Instalación y Preparación
+- Requisitos iniciales.
+- Instalación de Python.
+- Descarga del repositorio desde GitHub.
+
+# 3. Ejecución del Proyecto
+- Cómo ejecutar el archivo principal (`main.py`).
+- Ejemplo de uso con entrada y salida.
+
+# 4. Gestión de Versiones
+- Creación de un repositorio en GitHub.
+- Uso de Git en el flujo de trabajo (commit, push, pull).
+- Manejo y combinación de ramas.
